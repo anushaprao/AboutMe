@@ -1,0 +1,60 @@
+#Welcome to my User Page!
+
+##About Me!
+
+My name is Anusha Rao and I am a junior studying **Computer Engineering** at the University of California, San Diego. I am interested in studying Machine Learning and its applications in interdisciplinary fields.
+Outside of being a student, I am involved in several campus organizations. I serve as the President of *Triton Racing*, the Formula SAE team at UCSD. This year, we are building our first Electric Vehicle this year, which is a very exciting and time-consuming endeavour.
+I also work in the Digital Health Technologies lab, where I work with a team to create a mailable pupilometry device. I really like learning about how computer science and engineering can apply to medicine and the medical device field!
+
+> Fun Fact: I play piano and do Indian Classical Dance!
+
+![I love to play piano!](https://rolandcorp.com.au/blog/wp-content/uploads/2014/01/piano_6.jpg)
+![I do bharatanatyam, a style of Indian Classical Dance!](https://europe1.discourse-cdn.com/flex005/uploads/gov_near/original/3X/1/8/1820fb1e8d08599cf1557864fb8f6eddf6bdea15.png)
+
+Outside of school, I love to watch movies and read books! I also love concerts and music!
+
+- Click [Here] for my favorite song (https://youtu.be/UofYl3dataU?si=ldjfwo1vN8uo_ik5)
+
+My Top Three Favorite Movies are:
+1. When Harry Met Sally
+2. Miss Congenialty
+3. 10 Things I Hate About You
+
+> Catch a theme above? I would say that Romantic-Comedies are my favorite genre.
+
+
+##Who I am as a Programmer
+
+Languages I know:
+- C++
+- C
+- Java
+- Javascript
+- Python
+- SQL
+
+I really enjoy working in groups to acheive code-based solutions to everyday problems. I would say my favorite programming language is Python, mainly because I think its syntax makes understanding, designing and synthesizing much clearer amongst groups of programmers.
+
+##Quick Start Guide on GitHub
+
+The order of operations for branching from a repository on GitHub is:
+```
+git clone <Link to GitHub Repository>
+cd <Cloned Directory>
+git branch <branch name>
+git checkout <branch name>
+**Make Edits**
+git add <Edited Content>
+git commit -m "Message on Commit"
+git push/git push --all
+```
+
+After you push your edits, make sure:
+- [ ] To clear any conflicts with master
+- [ ] Review your Pull Request
+
+##Links!
+- Connect on [LinkedIn](www.linkedin.com/in/anusha-p-rao)
+- Link to [About Me] (#About-Me)
+- Link to [Programming] (#Who-I-am-as-a-Programmer)
+- Link to my [Read Me] (README.md)
